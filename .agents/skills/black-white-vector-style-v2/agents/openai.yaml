@@ -1,0 +1,5 @@
+interface:
+  display_name: "黑白矢量风格 2.0"
+  short_description: "粗犷收尖排线与实黑块面的黑白矢量版画"
+  default_prompt: "Use $black-white-vector-style-v2 to render this subject with bold tapered strokes, sparse broken hatching, and irregular fused black shadow masses."
+
