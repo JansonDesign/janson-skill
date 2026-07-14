@@ -1,0 +1,4 @@
+interface:
+  display_name: "黑白矢量风格 3.0"
+  short_description: "保持2.0粗犷矢量感并减少黑块略增粗排线"
+  default_prompt: "Use $black-white-vector-style-v3 to keep the bold clean vector style of version 2.0 while reducing some solid-black masses and adding slightly more coarse tapered hatching."
