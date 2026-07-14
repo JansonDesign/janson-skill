@@ -1,0 +1,4 @@
+interface:
+  display_name: "线稿转绘"
+  short_description: "将人像与婚纱照转为粗线留白断续排线的黑白版画线稿风格"
+  default_prompt: "Use $line-drawing-transfer to turn this photo into the established sparse black-and-white line engraving style."
