@@ -1,0 +1,4 @@
+interface:
+  display_name: "线稿转灰度浮雕"
+  short_description: "Turn line art into sculptural grayscale relief maps"
+  default_prompt: "Use $line-art-to-relief-grayscale to convert this line-art image into a clean sculptural grayscale relief map."
