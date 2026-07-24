@@ -1,0 +1,4 @@
+interface:
+  display_name: "低频柔化高度图"
+  short_description: "将线稿转换为暗色柔和浅层低频灰度高度图，适用于三维位移建模"
+  default_prompt: "Use $line-art-to-low-frequency-heightmap to convert this line drawing into a dark, soft, low-frequency grayscale height map for displacement modeling."
